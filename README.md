@@ -5,7 +5,6 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff91a4&size=35&center=true&vCenter=true&width=1000&lines=Hi,+I'm+Yuri+💻;Web+Development+Student;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
-> 🚀 Explorer Student at Rocketseat
 
 > 🛠 I’m currently learning JavaScript
 
